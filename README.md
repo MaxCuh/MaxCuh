@@ -2,6 +2,9 @@
 Max, 16 years old
 Studying IT in Oslo, Norway
 
+![image](https://github.com/user-attachments/assets/656ddcde-4381-4daf-92e6-0deef125b520)
+
+
 
 <!--
 **MaxCuh/MaxCuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
