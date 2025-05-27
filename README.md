@@ -1,4 +1,7 @@
 ## Hi there 👋
+Max, 16 years old
+Studying IT in Oslo, Norway
+
 
 <!--
 **MaxCuh/MaxCuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
