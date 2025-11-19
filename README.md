@@ -1,7 +1,7 @@
 ## Hi there 👋
 Max, 16 år gammel, studerer IT i Oslo
 
-![image](https://github.com/user-attachments/assets/656ddcde-4381-4daf-92e6-0deef125b520)
+
 
 
 
