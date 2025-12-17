@@ -1,5 +1,5 @@
 ## Hi there 👋
-Max, 16 år gammel, studerer IT i Oslo
+Max, 17 år gammel, studerer IT i Oslo
 
 
 
